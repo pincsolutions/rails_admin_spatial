@@ -7,11 +7,11 @@ require "rails_admin_spatial/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_spatial"
   s.version     = RailsAdminSpatial::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
+  s.authors     = ["Eric Theise"]
+  s.email       = ["erictheise@gmail.com"]
   s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminSpatial."
-  s.description = "TODO: Description of RailsAdminSpatial."
+  s.summary     = "Creates a rails_admin custom field for use with geo-enabled apps."
+  s.description = "Creates a rails_admin custom field for use with geo-enabled apps."
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
