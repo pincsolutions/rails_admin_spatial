@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = RailsAdminSpatial::VERSION
   s.authors     = ["Eric Theise"]
   s.email       = ["erictheise@gmail.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/erictheise/rails_admin_spatial"
   s.summary     = "Creates a rails_admin custom field for use with geo-enabled apps."
   s.description = "Creates a rails_admin custom field for use with geo-enabled apps."
 
